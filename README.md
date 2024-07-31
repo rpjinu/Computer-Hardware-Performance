@@ -71,10 +71,6 @@ The dataset is provided in ASCII CSV format.
 
 You can use this dataset to analyze and build predictive models for estimating the performance of computer systems based on various attributes.
 
-## License
-
-Specify your license here (e.g., MIT License, GNU General Public License, etc.).
-
 ## Acknowledgements
 
 Include any acknowledgements or references to the original source of the dataset if applicable.
