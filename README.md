@@ -65,7 +65,7 @@ This dataset contains performance data for various computer hardware systems. It
 
 ## Dataset
 
-The dataset is provided in ASCII CSV format. You can download it from [here](link_to_your_dataset).
+The dataset is provided in ASCII CSV format.
 
 ## Usage
 
